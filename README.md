@@ -12,4 +12,4 @@ GTK theme based on Windows Vista appearance
 - MATE
 
 ### Manual installation
-Go to releases, download the latest `.zip` file and extract it to the themes directory i.e. `/home/USERNAME/.themes`
+Go to releases, download the latest `.zip` file and extract it, then move folder to the themes directory: `/home/<USERNAME>/.themes`
